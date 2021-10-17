@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+### 本地运行到这里就可以了
 
 ### Compiles and minifies for production
 ```
